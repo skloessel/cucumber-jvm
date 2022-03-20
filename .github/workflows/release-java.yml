@@ -1,4 +1,4 @@
-name: Release maven package
+name: Release Maven package
 
 on:
   push:
